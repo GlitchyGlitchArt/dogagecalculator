@@ -40,5 +40,5 @@ Simply enter your dog's age and select their size to get their human-age equival
 
 ---
 
-[![Star on GitHub](https://img.shields.io/github/stars/yourusername/dog-age-calculator?style=social)](https://github.com/yourusername/dog-age-calculator) 
+[![Star on GitHub](https://img.shields.io/github/stars/GlitchyGlitchArt/dogagecalculator?style=social)](https://github.com/GlitchyGlitchArt/dogagecalculator) 
 *⭐ Found this useful? Star the repo to support the project!*
