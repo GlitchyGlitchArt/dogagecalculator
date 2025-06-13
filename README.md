@@ -15,7 +15,7 @@
 - 📊 Accurate calculation based on veterinary science
 
 ## 🖼️ Screenshot Preview
-![Dog Age Calculator Interface](./screenshot.png)  
+![Dog Age Calculator Interface](./DogAgeCalculator.png)  
 *(Replace screenshot.png with your actual filename)*
 
 ## 🧮 How It Works
